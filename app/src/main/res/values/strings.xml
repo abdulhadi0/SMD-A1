@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMD-A1</string>
+    <string name="login_text">Already have an account? <u><font color="#e4af3f">Login</font></u></string>
+    <string name="screen2Title">Icons and Text Tabs</string>
+    <string name="tab1">One</string>
+    <string name="tab2">Two</string>
+</resources>
